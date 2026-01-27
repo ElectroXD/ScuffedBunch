@@ -49,4 +49,8 @@ We are always looking to collaborate with talented individuals. **We are current
 # **Additional Info**
 
 * **Community:** Join our [**Discord Server**](https://discord.gg/CtWHxy6Z) to chat and share your interests.
+<<<<<<< HEAD
 * **Updates:** Follow our [**YouTube Channel**](https://www.youtube.com/@ScuffedBunch) for devlogs and game showcases.
+=======
+* **Updates:** Follow our [**YouTube Channel**](https://www.youtube.com/@ScuffedBunch) for devlogs and game showcases.
+>>>>>>> 73cbab34e39e5ea07e9453d611dd62541ecf422d
