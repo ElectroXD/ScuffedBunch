@@ -2,7 +2,7 @@
 This is officially SuffedBunch's Repository
 
 "What is Scuffed Bunch actaully for?"
-- Well, Scuffed Bunch is an IT indle team. We are specially for doing tech stuffs such as coding, programming, software developing or any visual desinging work like video editing or static graphics works.
+- Well, Scuffed Bunch is an IT indle team. We are specially for doing tech stuffs such as coding, programming, software develop.
 
 - We've started making a game dev studio called "ScuffedBunch". we will also develop games. 
 
