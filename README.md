@@ -1,55 +1,42 @@
-# **Overview**
+Overview
+Scuffed Bunch is an indie collective operating across the IT and creative sectors. With expertise in art, programming, editing, and writing, we are primarily a game studio dedicated to creating immersive interactive experiences.
 
-Scuffed Bunch is an indie team whom work in a good deal of IT and creative sector. We have experience in art, programming, editing, writing. Scuffed Bunch is primarily a game studio making interactive video games
+Our Skill Sets & Services
+Programming
+Languages: Java, JavaScript, C, and GDScript
 
-# **Our skill sets and what we can offer**
+Platforms: Web-based applications and CSS
 
-## Programming
+We develop bespoke applications and programs tailored to our clients' specific needs. We are committed to delivering high-quality code that aligns perfectly with your technical vision.
 
-* Java and JavaScript
-* Web Based Application
-* CSS
-* C
-* GD Script
+Art
+Mediums: Traditional, Digital, and Pixel Art
 
-We can make various application or programs accordingly to the request of the client. We are committed to provide the best service by programming and meeting the clients exact vision
+Tools: Krita (Digital) and Aseprite (Pixel Art)
 
-## Art
+We bring your artistic concepts to life across multiple mediums. Whether you need handcrafted traditional pieces or precise pixel assets, we provide high-quality visuals designed to captivate.
 
-* Traditional Art
-* Digital Art
-* Pixel Art
+Writing
+Services: Storytelling, Scriptwriting, and Script Editing
 
-We can fulfil your wish by making your artistic vision to mediums we are offering with the highest quality we can offer. We use [Krita](https://krita.org/en/) for digital art and [Aseprite](https://www.aseprite.org) for Pixel art.
+We craft gripping narratives that breathe life into your imagination. From building worlds to polishing existing scripts, we ensure your story is engaging, professional, and true to your creative vision.
 
-## Writing 
+Editing
+Tools: After Effects and Premiere Pro
 
-* Story writing
-* Scripting
-* Script editing
-  
-We can offer gripping and exciting story telling and bringing your imagination to reality and give them life. We write your story according to your creative vision. Furthermore, we can write or edit your script to make them more polished and engaging. 
-  
-## Editing
+We transform raw footage into professional, high-energy content. By utilizing motion graphics and seamless editing, we ensure your video projects are polished, entertaining, and ready for your audience.
 
-We offer professional editing to make your videos more engaging and entertain your viewers. We use [After Effects](https://www.adobe.com/products/aftereffects.html) to make motion graphics to make to animate your videos to make them more engaging. Not only that, but we will use [Premiere Pro](https://www.adobe.com/products/premiere.html) to piece together your video project and make a finished video that can entertain your audience
+Our Goal
+While we offer specialized commission services, our heart lies in game development. We are currently developing our debut indie title, Bonded Serin.
 
+By offering our expertise to the community, we aim to build a respected studio known for quality and collaboration. Our ultimate mission is to foster a community where creators and gamers alike can connect, share interests, and build lasting friendships.
 
-# What is our goal?
+Current Members
+The Scuffed Bunch team currently consists of two members: Kaito Sanichi and ElectroXD.
 
-Although we provide service via commissions, we are primarily a game studio currently developing our first indie game named Bonded Serin. We will focus on making and publishing more games. We are offering other services to make this studio of ours recognized and respected by others. We are enthusiastic to form a community where we all can be united and meet others who share similar interest and form friendship.
+We are always looking to collaborate with talented individuals. We are currently seeking a Music Artist. If you are interested in joining us, please reach out via email at: scuffedbunch@gmail.com
 
+Connect With Us
+Community: Join our Discord Server to chat and share your interests.
 
-# **Current members**
-
-There is currently two members in Scuffed Bunch. There is [Kaito Sanichi](https://github.com/KaitoSanichi) and [ElectroXD](https://github.com/ElectroXD). We will accept other talented people with us who are interested in our work. We are currently searching for a music artist. Please inform via emailing us to our email which is 
-scuffedbunch@gmail.com
-
-# **Additional Info**
-
-We have a discord server you can join our community and discuss about you interest by clicking -[**Join**](https://discord.gg/CtWHxy6Z)-
-
-We also have a [**YouTube channel**](https://www.youtube.com/@ScuffedBunch) to showcase our games by uploading dev logs.
-
-
-
+Updates: Follow our YouTube Channel for devlogs and game showcases.
