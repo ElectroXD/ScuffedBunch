@@ -1668,12 +1668,14 @@
 
 
 <!-- EmailJS SDK -->
-<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 <script>
     (function () {
         emailjs.init("wsQNuOF8BZsz88ugA");
     })();
-    
+</script>
+<!-- JavaScript -->
+<script>
     // Mobile Navigation
     const mobileToggle = document.getElementById('mobileToggle');
     const navLinks = document.getElementById('navLinks');
@@ -1685,7 +1687,6 @@
             : '<i class="fas fa-bars"></i>';
     });
 
-    // Close mobile menu on link click
     document.querySelectorAll('.nav-links a').forEach(link => {
         link.addEventListener('click', () => {
             navLinks.classList.remove('active');
@@ -1732,7 +1733,6 @@
         });
     });
 
-    // Portfolio Filtering
     const filterBtns = document.querySelectorAll('.filter-btn');
     const portfolioItems = document.querySelectorAll('.portfolio-item');
 
@@ -1761,9 +1761,7 @@
         });
     });
 
-    // ==========================
-    // Contact Form (EmailJS)
-    // ==========================
+
     const contactForm = document.getElementById('contactForm');
 
     contactForm.addEventListener('submit', function (e) {
@@ -1783,7 +1781,7 @@
         emailjs
             .send(
                 'service_juhdf0a',
-                'template_bsvmx8n',
+                'template_ex9u0p5',
                 params
             )
             .then(() => {
@@ -1800,7 +1798,6 @@
             });
     });
 
-    // Animate elements on scroll
     const observerOptions = {
         threshold: 0.1,
         rootMargin: '0px 0px -100px 0px'
@@ -1822,7 +1819,6 @@
         observer.observe(el);
     });
 
-    // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             e.preventDefault();
